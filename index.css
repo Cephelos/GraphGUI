@@ -1,0 +1,18 @@
+
+html, body{
+    margin: 0px;
+    min-height: 100vh;
+    min-width: 100vw;
+    display: flex;
+}
+
+div{
+  margin: 0px;
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+}
+  
+  div#draw-shapes {
+    background-color: powderblue;
+  }
